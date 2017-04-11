@@ -67,7 +67,7 @@ module CU_Tester;
 	always #20 CLK = ~CLK;
 	initial #sim_time $finish;
 
-endmodule // mux4Tester
+endmodule // controlunit_piecewise Tester
 
 
 
