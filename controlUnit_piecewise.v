@@ -55,4 +55,4 @@ module controlUnit_p(output [31:0] CU, input [31:0] IR, input MOC, COND, MLS0, M
 			
 
 
-endmodule // 
+endmodule // end controlunit_piecewise
