@@ -34,4 +34,4 @@ module Encoder (output reg[7:0] OUT, input[31:0] IR);
 						OUT = 8'd11;	
 		end				
 
-	endmodule // Encodero
+	endmodule // Encoder END***************************8
