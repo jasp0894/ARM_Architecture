@@ -52,4 +52,6 @@ module controlUnit(output [31:0] CU, input [31:0] IR, input MOC, COND, MLS0, MLS
 			
 
 
-endmodule // 
+endmodule //
+
+//Estas atras Gilipot
