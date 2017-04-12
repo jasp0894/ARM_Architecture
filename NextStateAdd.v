@@ -29,4 +29,6 @@ module NextStateAdd (output reg[1:0] M1M0, input [2:0]IN, input STS);
 
 	endcase // IN
 
-endmodule // NextStateAdd	
+endmodule // NextStateAdd
+
+// Vi Ghost in the shell. Estuvo mas o menos...	
